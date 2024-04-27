@@ -1,0 +1,4 @@
+Lambda Learning:
+Created a lambda function to send a msg to a slack channel. Will work on creating a trigger for it.
+
+S3: Using s3 to save a configuration file. Names of slak channels, credentials, google sheets etc.
